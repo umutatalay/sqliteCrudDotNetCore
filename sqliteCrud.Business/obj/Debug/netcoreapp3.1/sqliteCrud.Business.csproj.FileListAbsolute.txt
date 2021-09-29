@@ -1,0 +1,17 @@
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\bin\Debug\netcoreapp3.1\sqliteCrud.Business.deps.json
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\bin\Debug\netcoreapp3.1\sqliteCrud.Business.dll
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\obj\Debug\netcoreapp3.1\sqliteCrud.Business.csprojAssemblyReference.cache
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\obj\Debug\netcoreapp3.1\sqliteCrud.Business.AssemblyInfoInputs.cache
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\obj\Debug\netcoreapp3.1\sqliteCrud.Business.AssemblyInfo.cs
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\bin\Debug\netcoreapp3.1\sqliteCrud.Business.runtimeconfig.json
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\bin\Debug\netcoreapp3.1\sqliteCrud.Business.runtimeconfig.dev.json
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\bin\Debug\netcoreapp3.1\sqliteCrud.Business.pdb
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\obj\Debug\netcoreapp3.1\sqliteCrud.Business.csproj.CoreCompileInputs.cache
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\obj\Debug\netcoreapp3.1\sqliteCrud.Business.dll
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\obj\Debug\netcoreapp3.1\sqliteCrud.Business.pdb
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\obj\Debug\netcoreapp3.1\sqliteCrud.Business.genruntimeconfig.cache
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\bin\Debug\netcoreapp3.1\sqliteCrud.DataAccess.dll
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\bin\Debug\netcoreapp3.1\sqliteCrud.Entities.dll
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\bin\Debug\netcoreapp3.1\sqliteCrud.DataAccess.pdb
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\bin\Debug\netcoreapp3.1\sqliteCrud.Entities.pdb
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Business\obj\Debug\netcoreapp3.1\sqliteCrud.Business.csproj.CopyComplete

@@ -1,0 +1,12 @@
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\bin\Debug\netcoreapp3.1\sqliteCrud.Entities.deps.json
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\bin\Debug\netcoreapp3.1\sqliteCrud.Entities.dll
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\obj\Debug\netcoreapp3.1\sqliteCrud.Entities.csprojAssemblyReference.cache
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\obj\Debug\netcoreapp3.1\sqliteCrud.Entities.AssemblyInfoInputs.cache
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\obj\Debug\netcoreapp3.1\sqliteCrud.Entities.AssemblyInfo.cs
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\bin\Debug\netcoreapp3.1\sqliteCrud.Entities.runtimeconfig.json
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\bin\Debug\netcoreapp3.1\sqliteCrud.Entities.runtimeconfig.dev.json
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\bin\Debug\netcoreapp3.1\sqliteCrud.Entities.pdb
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\obj\Debug\netcoreapp3.1\sqliteCrud.Entities.csproj.CoreCompileInputs.cache
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\obj\Debug\netcoreapp3.1\sqliteCrud.Entities.dll
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\obj\Debug\netcoreapp3.1\sqliteCrud.Entities.pdb
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\obj\Debug\netcoreapp3.1\sqliteCrud.Entities.genruntimeconfig.cache
