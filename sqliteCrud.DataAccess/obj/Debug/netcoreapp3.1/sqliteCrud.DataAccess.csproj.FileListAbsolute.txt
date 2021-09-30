@@ -6,10 +6,10 @@ D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.DataAccess\obj\Debug\netcoreapp
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.DataAccess\bin\Debug\netcoreapp3.1\sqliteCrud.DataAccess.runtimeconfig.json
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.DataAccess\bin\Debug\netcoreapp3.1\sqliteCrud.DataAccess.runtimeconfig.dev.json
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.DataAccess\bin\Debug\netcoreapp3.1\sqliteCrud.DataAccess.pdb
-D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.DataAccess\obj\Debug\netcoreapp3.1\sqliteCrud.DataAccess.csproj.CoreCompileInputs.cache
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.DataAccess\obj\Debug\netcoreapp3.1\sqliteCrud.DataAccess.dll
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.DataAccess\obj\Debug\netcoreapp3.1\sqliteCrud.DataAccess.pdb
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.DataAccess\obj\Debug\netcoreapp3.1\sqliteCrud.DataAccess.genruntimeconfig.cache
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.DataAccess\bin\Debug\netcoreapp3.1\sqliteCrud.Entities.dll
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.DataAccess\bin\Debug\netcoreapp3.1\sqliteCrud.Entities.pdb
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.DataAccess\obj\Debug\netcoreapp3.1\sqliteCrud.DataAccess.csproj.CopyComplete
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.DataAccess\obj\Debug\netcoreapp3.1\sqliteCrud.DataAccess.csproj.CoreCompileInputs.cache

@@ -6,7 +6,7 @@ D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\obj\Debug\netcoreapp3.
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\bin\Debug\netcoreapp3.1\sqliteCrud.Entities.runtimeconfig.json
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\bin\Debug\netcoreapp3.1\sqliteCrud.Entities.runtimeconfig.dev.json
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\bin\Debug\netcoreapp3.1\sqliteCrud.Entities.pdb
-D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\obj\Debug\netcoreapp3.1\sqliteCrud.Entities.csproj.CoreCompileInputs.cache
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\obj\Debug\netcoreapp3.1\sqliteCrud.Entities.dll
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\obj\Debug\netcoreapp3.1\sqliteCrud.Entities.pdb
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\obj\Debug\netcoreapp3.1\sqliteCrud.Entities.genruntimeconfig.cache
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.Entities\obj\Debug\netcoreapp3.1\sqliteCrud.Entities.csproj.CoreCompileInputs.cache

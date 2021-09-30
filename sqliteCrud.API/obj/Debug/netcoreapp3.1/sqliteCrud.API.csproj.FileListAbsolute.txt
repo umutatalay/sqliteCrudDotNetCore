@@ -54,8 +54,6 @@ D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\bin\Debug\netcoreapp3.1\sql
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\bin\Debug\netcoreapp3.1\sqliteCrud.API.pdb
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\bin\Debug\netcoreapp3.1\Humanizer.dll
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\obj\Debug\netcoreapp3.1\sqliteCrud.API.csproj.CoreCompileInputs.cache
-D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\obj\Debug\netcoreapp3.1\sqliteCrud.API.MvcApplicationPartsAssemblyInfo.cache
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\obj\Debug\netcoreapp3.1\sqliteCrud.API.dll
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\obj\Debug\netcoreapp3.1\sqliteCrud.API.pdb
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\obj\Debug\netcoreapp3.1\sqliteCrud.API.genruntimeconfig.cache
@@ -65,3 +63,10 @@ D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\bin\Debug\netcoreapp3.1\sql
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\bin\Debug\netcoreapp3.1\sqliteCrud.Business.pdb
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\bin\Debug\netcoreapp3.1\sqliteCrud.Entities.pdb
 D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\bin\Debug\netcoreapp3.1\sqliteCrud.DataAccess.pdb
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\obj\Debug\netcoreapp3.1\sqliteCrud.API.csproj.CoreCompileInputs.cache
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\obj\Debug\netcoreapp3.1\sqliteCrud.API.MvcApplicationPartsAssemblyInfo.cs
+D:\Users\UMUT\source\repos\sqliteCrud\sqliteCrud.API\obj\Debug\netcoreapp3.1\sqliteCrud.API.MvcApplicationPartsAssemblyInfo.cache

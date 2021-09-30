@@ -28,5 +28,30 @@ namespace sqliteCrud.API.Controllers
         {
             return productService.GetAll();
         }
+
+
+        [HttpGet("{id}")]
+        public Product Get(int id)
+        {
+            return productService.GetById(id);
+        }
+
+        [HttpPost]
+        public Product Post([FromBody] Product product)
+        {
+            return productService.Create(product);
+        }
+
+        [HttpPut]
+        public Product Put([FromBody] Product product)
+        {
+            return productService.Update(product);
+        }
+
+        [HttpDelete("{id}")]
+        public void Delete(int id)
+        {
+            productService.Delete(id);
+        }
     }
 }
